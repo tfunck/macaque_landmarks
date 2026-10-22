@@ -1,0 +1,10 @@
+numpy>=1.21
+pandas>=1.3
+scipy>=1.7
+nibabel>=4.0
+Pillow>=9.0
+matplotlib>=3.5
+pyqtgraph>=0.13
+PyQt5>=5.15          # PyQt6 or PySide6 also work
+tifffile>=2021.1     # optional: faster/more robust TIFF reading
+pytest>=7            # only for the tests
